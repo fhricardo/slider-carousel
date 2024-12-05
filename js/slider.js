@@ -1,3 +1,9 @@
+/* SLIDER CAROUSEL V1.0.0
+** Flavio Ricardo
+** https://flavioricardo.com.br
+** Junho/2024
+*/
+
 // NEW SLIDER
 class Carousel {
     constructor(container, autoPlay = true, intervalTime = 3000) {
